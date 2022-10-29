@@ -3,7 +3,7 @@ Powerful Stopwatch made using HTML, CSS, Javascript. Hope you'll know how precio
 
 ## 1. HomeScreen of our App !
 
-![](Images/Screenshot (150).png)
+![](Images/Screenshot(149).png)
 
 ## 2. Starting of our StopWatch
 
@@ -11,4 +11,4 @@ Powerful Stopwatch made using HTML, CSS, Javascript. Hope you'll know how precio
 ## 3. Stopping of our StopWatch
 
 
-## 2. Reseting of our StopWatch
+## 4. Reseting of our StopWatch
